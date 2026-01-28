@@ -2,7 +2,7 @@
 
 # 🎬 Movie Recommendation System
 
-Live Project Link : https://last-movie-recommend-lh6xr2xlnpwxjt8zfadtsc.streamlit.app/
+Live Project Link : https://movierecommendationsystemproject-hbuax7ubisjdgqee6gpfbe.streamlit.app/
 
 A **content-based Movie Recommendation System** built using **Python and Streamlit**.
 The app recommends similar movies and displays their **posters** using the **TMDB API**.
@@ -101,7 +101,7 @@ streamlit run app.py
 ## ☁️ Deployment (Streamlit Cloud)
 
 1. Push project to GitHub
-2. Go to [https://streamlit.io/cloud](https://streamlit.io/cloud)
+2. Go to https://share.streamlit.io/
 3. Click **New App**
 4. Select repository
 5. Set main file as `app.py`
@@ -146,9 +146,5 @@ streamlit run app.py
 * Streamlit for deployment
 
 ---
-
-## 📬 Contact
-
-If you like this project or want improvements, feel free to connect!
 
 
